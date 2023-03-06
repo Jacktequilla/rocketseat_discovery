@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+}
+
+body {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: #FAF7FD;
+}
+
+.body-box {
+    background-color: none;
+    height: 621px;
+    width: 328px;
+    position: absolute;
+    top: 201px;
+    left: 556px;
+}
+
+.borde-profile {
+    position: absolute;
+    width: 213px;
+    height: 213px;
+    left: 56px;
+}
+
+.profile-image {
+    position: absolute;
+    top: 6px;
+    left: 63px;
+}
+
+.insta-id {
+    position: absolute;
+    width: 99px;
+    height: 24px;
+    left: 113px;
+    top: 228px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #BB99DD;
+}
+
+.link {
+    box-sizing: border-box;
+    width: 326px;
+    height: 49px;
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+    color: #BB99DD;
+}
+
+.link1 {
+    position: absolute;
+    top: 285px;
+}
+
+.link2 {
+    position: absolute;
+    top: 350px;
+}
+
+.link3 {
+    position: absolute;
+    top: 415px;
+}
+
+.link4 {
+    position: absolute;
+    top: 480px;
+}
+
+.icon-twitter {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 45px;
+    top: 597px;
+}
+
+.icon-twitch {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 98px;
+    top: 597px;
+}
+
+.icon-instagram {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 151px;
+    top: 597px;
+}
+
+.icon-linkedin {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 204px;
+    top: 597px;
+}
+
+.icon-github {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 257px;
+    top: 597px;
+}
