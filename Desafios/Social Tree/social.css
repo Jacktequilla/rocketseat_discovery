@@ -1,5 +1,5 @@
 * {
-    margin: 0;
+    margin: 0 auto;
 }
 
 body {
@@ -15,7 +15,7 @@ body {
     width: 328px;
     position: absolute;
     top: 201px;
-    left: 796px;
+    left: 556px;
 }
 
 .borde-profile {
